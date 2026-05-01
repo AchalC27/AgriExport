@@ -37,6 +37,8 @@ cd AgriExport
 pip install -r requirements.txt
 streamlit run app.py
 
+```
+
 ## Environment Variables
 
 Create a .streamlit/secrets.toml file and add:
